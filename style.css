@@ -1,0 +1,40 @@
+body {
+    font-family: "times new roman" ;
+    background-color: white;
+    margin:0 ;
+    padding:0 ;
+}
+#header1 {
+    background-color: wheat;
+    color: darkblue;
+    text-align: center;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: lightblue;
+}
+
+ul {
+    list-style: none;
+    padding: 15px;
+}
+
+.tieude {
+    background-color: pink;
+    padding: 10px;
+    border: 1px solid white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.baihoc {
+    margin-left: 20px;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-weight: lighter;
+    font-style: normal;
+}
